@@ -1,0 +1,4 @@
+Fixing C:\Users\DELL\Desktop\OpenSourceProjects\Lise\LiSE\venv312\Lib\site-packages\numpy\polynomial\_polytypes.pyi
+Fixing C:\Users\DELL\Desktop\OpenSourceProjects\Lise\LiSE\venv312\Lib\site-packages\pip\_vendor\requests\utils.py
+Fixing C:\Users\DELL\Desktop\OpenSourceProjects\Lise\LiSE\venv312\Lib\site-packages\tox\config\set_env.py
+Skipped 5 files
